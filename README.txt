@@ -1,3 +1,1 @@
-FakerSharp docs
-
-Wait....
+! FakerSharp takes data from randomuser API (https://randomuser.me/) !
